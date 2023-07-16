@@ -1,4 +1,7 @@
+﻿# IdeoDigitalTest_AngularClient
 ﻿# IdeoDigitalTestWebApi
+
+ 
 1)Run SQL SERVER DataBase script 
    AccountingDB.sql
    this script creates Schema And Data in SQL Server
