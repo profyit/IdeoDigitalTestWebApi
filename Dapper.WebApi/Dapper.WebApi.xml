@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dapper.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Dapper.WebApi.Controllers.InvoicesController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Dapper.WebApi.Controllers.InvoicesController.#ctor(Dapper.Application.Interfaces.IUnitOfWork)">
+            <summary>
+            
+            </summary>
+            <param name="unitOfWork"></param>
+        </member>
+        <member name="M:Dapper.WebApi.Controllers.InvoicesController.GetById(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dapper.WebApi.Controllers.InvoicesController.Add(Dapper.Core.Entities.Invoices)">
+            <summary>
+            
+            </summary>
+            <param name="Invoices"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dapper.WebApi.Controllers.InvoicesController.Delete(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dapper.WebApi.Controllers.InvoicesController.Update(Dapper.Core.Entities.Invoices)">
+            <summary>
+            
+            </summary>
+            <param name="Invoices"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dapper.WebApi.Controllers.InvoicesController.GetInvoicesAmount">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Dapper.WebApi.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Dapper.WebApi.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Dapper.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>
